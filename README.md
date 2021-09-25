@@ -1,5 +1,5 @@
 [![Run on 
-Repl.it](https://repl.it/badge/github/selectthegang/repldex-app)](https://repl.it/github/selectthegang/repldex-app)
+Repl.it](https://repl.it/badge/github/repldex/repldex-android)](https://repl.it/github/repldex/repldex-android)
 # Repldex
 \[Un\]official encyclopedia of user created entries 
 for the Repl.it Community in general, but mainly 
@@ -10,9 +10,11 @@ Discord bot source code and `aiohttp` web server
 # Contributing
 - Fork the repository and setup your enviornment. 
 (`git clone` or otherwise). - Or, click the run on 
-repl.it badge install Android Studio aswell as 
+repl.it badge
+for Windows/macOS: install Android Studio aswell as 
 Kotlin, open project then click Build Project to 
-start testing! - Create a pull request describing 
+start testing! 
+- Create a pull request describing 
 what you changed. -wait for a reviewer to review 
 your PR If you have any trouble, feel free to hop 
 onto the Repldex Editors Discord Server, where 
