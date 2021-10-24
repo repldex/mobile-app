@@ -7,6 +7,10 @@ the [Repl.it Discord
 Server](https://repl.it/discord). Contains the 
 Discord bot source code and `aiohttp` web server 
 (API and frontend).
+
+# WARNING
+⚠️ This repository is currently unstable and the contents should not be installed on any devices. ⚠️
+
 # Contributing
 - Fork the repository and setup your enviornment. 
 (`git clone` or otherwise). - Or, click the run on 
