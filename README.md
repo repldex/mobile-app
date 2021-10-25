@@ -9,7 +9,7 @@ Discord bot source code and `aiohttp` web server
 (API and frontend).
 
 # WARNING
-⚠️ This repository is currently unstable and the contents should not be installed on any devices. ⚠️
+⚠️ This repository is currently unstable and the contents should not be installed on any devices other than a AVD emulator! ⚠️
 
 # Contributing
 - Fork the repository and setup your enviornment. 
