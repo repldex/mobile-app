@@ -5,7 +5,7 @@ the [Repl.it Discord
 Server](https://repl.it/discord). Contains the uncompiled source code that works with Android and iOS
 
 # WARNING
-⚠️ This repository is currently unstable and the contents should not be installed on any devices other than a AVD emulator! ⚠️
+⚠️ This repository has been archived and should not be used in any circumstance ⚠️
 
 # Contributing
 - Fork the repository and setup your enviornment. 
